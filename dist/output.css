@@ -803,6 +803,14 @@ select {
   margin-top: 0.75rem;
 }
 
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
 .flex {
   display: flex;
 }
@@ -877,6 +885,10 @@ select {
 
 .w-\[380px\] {
   width: 380px;
+}
+
+.w-7 {
+  width: 1.75rem;
 }
 
 .flex-1 {
